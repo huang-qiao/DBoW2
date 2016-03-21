@@ -17,7 +17,7 @@
 #include <fstream>
 #include <string>
 #include <algorithm>
-#include <opencv/cv.h>
+#include <opencv2/opencv.hpp>
 
 #include "FeatureVector.h"
 #include "BowVector.h"
